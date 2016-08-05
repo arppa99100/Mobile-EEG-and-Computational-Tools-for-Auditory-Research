@@ -1,0 +1,2 @@
+# Mobile-EEG-and-Computational-Tools-for-Auditory-Research
+EEG Data Exploration. Looking at fundamental patterns of cortical brain activity unfolding over time. Studying specific relationships between cortical activity and the acoustic stimuli that trigger it. Applying machine learning and statistical tools to clean, analyze and visualize EEG data. View artificial neural networks as tools for modeling of brain activity.
